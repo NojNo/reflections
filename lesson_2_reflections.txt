@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+	the file is connected to GIT. by initializing it, the file is
+	tucked away in Git (not in visible part of the Windows Explorer)
+	now we can deal with it in  Git.
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+	It is connecting both sides by offering an intermediate saving space.
+	it bundles commits and therefore is a prestep before becoming a part
+	of the reposity
