@@ -4,3 +4,7 @@ checking through a file.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It might be that I am not completely finish with the branch so that an unfished part could be pushed or pulled.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks rep. coying on GitHub level
+clones rep download or copying from one local PC to another
+branch are creating in one rep.
