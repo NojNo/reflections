@@ -12,3 +12,8 @@ branch are creating in one rep.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It´s biggest advantage is, that you can work offline in one rep on different branches,
 without having to merge the commits immediately. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+easier: describing your code, solving merge conflicts
+harder: being not geographically at the same spot and collaborating would be difficult: e.g. checking each others code by using
+pull request
