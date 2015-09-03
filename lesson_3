@@ -8,3 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks rep. coying on GitHub level
 clones rep download or copying from one local PC to another
 branch are creating in one rep.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It´s biggest advantage is, that you can work offline in one rep on different branches,
+without having to merge the commits immediately. 
