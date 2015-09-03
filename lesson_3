@@ -17,3 +17,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 easier: describing your code, solving merge conflicts
 harder: being not geographically at the same spot and collaborating would be difficult: e.g. checking each others code by using
 pull request
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+direct change in master: everything is updated till the tip
+change in seperated branch: my master branch cannot break. besides, I can change sth and then pull request on GitHub to receive 
+some feedback. If everything is fine, I can merge the master and the seperated branch in order to have a new tip commit
